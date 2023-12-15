@@ -16,3 +16,5 @@ Data Analysis Project using PowerBI
   <li>📊 PowerBI Reports</li>
   <li>📦 Data Files</li>
 </ul>
+
+![https://github.com/shloktilokani/PowerBI-Amazon-Customer-Data-Analysis/blob/main/res/2023-12-15%2023_12_17-Rakshit%20Vig%20-%20Data%20Analysis%20Webinar%20-%20Amazon%20Customer%20Analysis.png]
